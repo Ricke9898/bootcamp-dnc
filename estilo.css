@@ -280,6 +280,7 @@ header .invert {
 
     /* section */
 
+
     section h1{
         font-size: 30px;
     }
@@ -297,8 +298,19 @@ header .invert {
 
     .checkbox-Items label{
         font-size: 15px;
-
     }
+
+    /* Footer */
+
+    footer .linha1{
+        flex-direction: column;
+    }
+
+    footer .endereço{
+        width: 95%;
+        margin-bottom: 20px;
+    }
+
 }
 
     
